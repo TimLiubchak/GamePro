@@ -1,0 +1,31 @@
+[
+  {
+    id:0,
+    name:"Start Gate",
+    year: "1981",
+    image: https://images-eu.ssl-images-amazon.com/images/I/61djgJj%2BXDL._AC_UL160_.jpg,
+    info:"The Web's most complete photo and screencap gallery for the Stargate franchise! Find set photos and screen captures for every episode and film, plus Stargate .",
+  },
+   {
+    id:1,
+    name:"Tor Dark",
+    year: "1981",
+    image:https://upload.wikimedia.org/wikipedia/ru/thumb/0/04/Thor_The_Dark_World.jpg/210px-Thor_The_Dark_World.jpg,
+    info:"The Web's most complete photo and screencap gallery for the Stargate franchise! Find set photos and screen captures for every episode and film, plus Stargate .",
+  },
+   {
+    id:2,
+    name:"Venom",
+    year: "1981",
+    image: https://upload.wikimedia.org/wikipedia/ru/thumb/0/05/Venom_poster.jpg/203px-Venom_poster.jpg,
+    info:"The Web's most complete photo and screencap gallery for the Stargate franchise! Find set photos and screen captures for every episode and film, plus Stargate .",
+  },
+   {
+    id:3,
+    name:"Start Gate",
+    year: "1981",
+    image: https://images-eu.ssl-images-amazon.com/images/I/61djgJj%2BXDL._AC_UL160_.jpg,
+    info:"The Web's most complete photo and screencap gallery for the Stargate franchise! Find set photos and screen captures for every episode and film, plus Stargate .",
+  },
+  
+  ]
